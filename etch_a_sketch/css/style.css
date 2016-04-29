@@ -1,0 +1,60 @@
+.container {
+	width: 980px;
+	margin: 0 auto auto;
+}
+
+#buttons {
+	text-align: center;
+}
+
+button {
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 4em;
+	border: none;
+	background-color: #55D2FF;
+}
+
+#show {
+	display: initial;
+}
+
+#hide {
+	display: none;
+}
+
+#banner {
+	border: 10px solid red;
+	text-align: center;
+	background-color: #ccc;
+	border-radius: 10px;
+}
+
+#banner h1 {
+	font-family: 'Londrina Sketch', sans-serif;	
+	font-size: 40px;
+}
+
+.painted {
+	background-color: hotpink !important;
+}
+
+.randPaint {
+	background-color: rgb(0,0,0) !important;
+}
+
+.cell{
+	background-color: #888;
+	padding: none;
+}
+
+.table tr{
+	width: 960px;
+}
+
+.table{
+	margin: 30px auto auto;
+	width: 960px;
+	border: 40px solid red;
+	border-radius: 25px !important;
+}
